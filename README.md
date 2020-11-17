@@ -8,4 +8,3 @@ https://github.com/stm32duino/Arduino_Core_STM32
 # Supported Pins
 PA4 PA5 for GPIOA
 
-<meta name="google-site-verification" content="42EZW47Fq0hbBAnf8G38CAx7T2NdfGg7yfwbgiBDYPM" />
